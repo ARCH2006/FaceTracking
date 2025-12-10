@@ -107,9 +107,8 @@ anchor.group.add(glasses.scene);
 
 ```
 ## OUTPUT:
-<img width="573" height="323" alt="Screenshot 2025-11-28 185031" src="https://github.com/user-attachments/assets/07d6f701-db0e-4a93-9ca6-34ef9b771f38" />
+![WhatsApp Image 2025-12-10 at 7 31 01 PM](https://github.com/user-attachments/assets/7a1ae45f-f910-4331-8049-2b3d0ca02a92)
 
-<img width="659" height="339" alt="image" src="https://github.com/user-attachments/assets/399d2229-1216-45f8-964c-6585ba6faa5f" />
 
 
 ## RESULT:
